@@ -132,7 +132,7 @@ export default function RedirectPage() {
           <div className="text-gray-400 text-6xl mb-4">🔍</div>
           <h1 className="text-xl font-semibold mb-2">URL Not Found</h1>
           <p className="text-gray-600 mb-4">
-            The short URL you're looking for doesn't exist or has been removed.
+            The short URL you&apos;re looking for doesn&apos;t exist or has been removed.
           </p>
           <button
             onClick={goHome}
